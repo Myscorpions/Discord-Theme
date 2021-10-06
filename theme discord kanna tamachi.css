@@ -33,9 +33,9 @@
   --background-attachment: fixed;
   --user-modal-attachment: var(--background-attachment);
   --user-popout-attachment: var(--background-attachment);
-  --primary-color: #85719c;
-  --secondary-color: #a98186;
-  --hover-color: #85719c;
+  --primary-color: #d6b2ff;
+  --secondary-color: #d6b2ff;
+  --hover-color: #d6b2ff;
   --tooltip-color: #cea6fe;
   --mention-background: var(--primary-color);
   --mention-opacity: 0.3;
@@ -94,3 +94,107 @@
   --header-shading: rgba(255,255,255,0.5);
 }
 
+.button-3AYNKb {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #bca1eb;
+}
+
+.attachButtonPlus-jWVFah {
+    fill: #743eb9cf;
+}
+
+.markup-2BOw-j {
+    font-size: 1rem;
+    line-height: 1.375rem;
+    white-space: pre-wrap;
+    white-space: break-spaces;
+    word-wrap: break-word;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.modeConnected-3IsKId .name-23GUGE, .modeConnected-3IsKId:hover .name-23GUGE, .modeSelected-346R90 .name-23GUGE, .modeSelected-346R90:hover .name-23GUGE, .modeUnread-1qO3K1 .name-23GUGE, .modeUnread-1qO3K1:hover .name-23GUGE, .notInteractive-1X92pj.modeConnected-3IsKId .name-23GUGE, .notInteractive-1X92pj.modeSelected-346R90 .name-23GUGE {
+    color: #d6b2ff;
+}
+
+.name-23GUGE {
+    color: #d6b2ff;
+}
+
+.attachButtonPlus-jWVFah {
+    fill: #d6b2ff;
+}
+
+.button-1ZiXG9 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 24px;
+    padding: 4px;
+    min-width: 24px;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    color: #d64bb1;
+    cursor: pointer;
+    position: relative;
+}
+
+.repliedMessage-VokQwo {
+    --reply-spacing: 4px;
+    color: #e427f1;
+    position: relative;
+    white-space: pre;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+element.style {
+}
+a, button, div, input, label, select, span, strong, textarea {
+    outline: 0;
+}
+a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.membersGroup-v9BXpm {
+    color: #d6b2ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerDefault-3tr_sE .wrapper-PY0fhH .name-3l27Hl {
+    color: #dbcdf7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
